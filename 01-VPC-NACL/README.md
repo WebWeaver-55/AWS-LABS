@@ -100,8 +100,6 @@ AWS Network ACLs process rules from the lowest rule number to the highest. The f
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### VPC Creation
 
 <img src="./Screenshots/vpc.png" width="900">
