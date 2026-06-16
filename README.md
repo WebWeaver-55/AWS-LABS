@@ -28,7 +28,7 @@ Every lab here is built from scratch, manually configured, and documented the wa
 | # | Lab | AWS Services | Status |
 |:-:|-----|-------------|:------:|
 | 01 | **VPC & Network ACLs** | VPC, Subnets, Route Tables, NACLs | ✅ Complete |
-| 02 | **EC2 & Security Groups** | EC2, SGs, Key Pairs, AMIs | ⏳ In Progress |
+| 02 | **ALB-ASG-BASTION** | EC2, SGs, ELB, Key Pairs, AMIs | ✅ Complete |
 | 03 | **IAM** | Users, Roles, Policies, MFA | ⏳ In Progress |
 | 04 | **S3 Static Website Hosting** | S3, Bucket Policies, CloudFront | ⏳ In Progress |
 | 05 | **S3 Versioning & Lifecycle** | S3, Lifecycle Rules, Glacier | ⏳ In Progress |
