@@ -29,7 +29,7 @@ Every lab here is built from scratch, manually configured, and documented the wa
 |:-:|-----|-------------|:------:|
 | 01 | **VPC & Network ACLs** | VPC, Subnets, Route Tables, NACLs | ✅ Complete |
 | 02 | **ALB-ASG-BASTION** | EC2, SGs, ELB, Key Pairs, AMIs | ✅ Complete |
-| 03 | **IAM** | Users, Roles, Policies, MFA | ⏳ In Progress |
+| 03 | **S3 & IAM Security** | Bucket Policies, Public Access Control, Static Hosting | ✅ Complete |
 | 04 | **S3 Static Website Hosting** | S3, Bucket Policies, CloudFront | ⏳ In Progress |
 | 05 | **S3 Versioning & Lifecycle** | S3, Lifecycle Rules, Glacier | ⏳ In Progress |
 | 06 | **Elastic Load Balancer** | ALB, Target Groups, Health Checks | ⏳ In Progress |
