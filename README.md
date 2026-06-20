@@ -50,7 +50,7 @@ Every lab here is built from scratch, manually configured, and documented the wa
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Structuree
 
 ```
 AWS-LABS/
