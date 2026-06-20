@@ -167,7 +167,7 @@ Every lab is documented consistently — no half-finished notes:
 
 ---
 
-## 📈 Learning Objectives
+## 📈 Learning Objectivess
 
 - [ ] Build strong AWS fundamentals across 6+ service categories
 - [ ] Understand cloud networking end-to-end (VPC → DNS → Load Balancing)
