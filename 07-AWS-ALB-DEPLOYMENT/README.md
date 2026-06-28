@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Terraform%20Lab-01-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform%20Lab-07-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/IaC-AWS%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/ALB-High%20Availability-0A66C2?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Complete-28a745?style=for-the-badge"/>
 
-# 🌍 Terraform Lab 01 — AWS ALB Infrastructure as Code
+# 🌍 Terraform Lab 07 — AWS ALB Infrastructure as Code
 
 ### Zero console clicks. One `terraform apply`. Full HA web infrastructure — VPC, EC2, S3, ALB — provisioned entirely through code.
 
